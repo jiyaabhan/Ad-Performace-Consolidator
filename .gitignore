@@ -1,0 +1,10 @@
+# Virtual environment
+venv/
+.env
+__pycache__/
+*.pyc
+
+# Generated database and output files (these change every time the project runs)
+ad_performance.db
+raw_ad_data.csv
+cleaned_ad_data.csv
